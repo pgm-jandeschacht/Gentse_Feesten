@@ -1,9 +1,5 @@
-# Gentse feesten 2019
+# Gentse feesten
 
-Maak de website van Gentse feesten 2020 zo goed mogelijk na met de data van 2019.
-|           |                                  |
-| --------- | -------------------------------- |
-| Firstname | Jan                              |
-| Lastname  | Deschacht                        |
-| Gender    | :male_sign:                      |
-| Email     | jan.desch@student.arteveldehs.be |
+This is a clone website of the official Gentse feesten wesbite. This was an assignment for Artevelde.
+
+**Technologies used:** Javascript, CSS and HTML
